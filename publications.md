@@ -54,10 +54,10 @@ Yan C, Miller CL, Abe J. [Regulation of phosphodiesterase 3 and inducible cAMP e
 [9]: http://atvb.ahajournals.org/content/35/10/2079.long
 [10]: http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005155
 [11]: http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005202
-[12] http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004263
-[13] http://link.springer.com/article/10.1007%2Fs11883-014-0406-4
-[14] https://www.jci.org/articles/view/70391
-[15] http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003652
+[12]: http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004263
+[13]: http://link.springer.com/article/10.1007%2Fs11883-014-0406-4
+[14]: https://www.jci.org/articles/view/70391
+[15]: http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003652
 [16]: http://atvb.ahajournals.org/content/33/1/e1.long
 [17]: http://link.springer.com/article/10.1007%2Fs00395-011-0228-2
 [18]: http://atvb.ahajournals.org/content/31/3/616.long
