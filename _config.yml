@@ -19,6 +19,10 @@ title: Miller Lab
 # Short description of your site
 description: Welcome to the Miller Lab
 
+# big image
+bigimg: "http://clintmil.github.io/img/PDB_2gwk_EBI.jpg"
+
+
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
