@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 
 subtitle: 
 bigimg: /img/PDB_2gwk_EBI.jpg
 ---
