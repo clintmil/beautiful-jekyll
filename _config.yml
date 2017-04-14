@@ -4,8 +4,8 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://username.github.io"
-baseurl: ""
+url: "http://clintmil.github.io"
+baseurl: "/millerlab"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -27,12 +27,7 @@ navbar-links:
   Research: "research"
   People: "people"
   Publications: "publications"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
   Join Us: "careers"
-  Author's home: "http://millerlab.org"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -49,7 +44,6 @@ avatar:
 author:
   name: MillerLab 
   email: "clm104@gmail.com"
-  facebook: yourname  # eg. daattali
   github: clintmil    # eg. daattali
   twitter: clintomics   # eg. daattali
   reddit: yourname    # eg. daattali
@@ -66,7 +60,7 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
   twitter: true
   google-plus: false
@@ -90,7 +84,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "millerlab.org"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
@@ -116,7 +110,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/WashingtonDC"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
