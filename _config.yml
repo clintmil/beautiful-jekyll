@@ -23,7 +23,7 @@ description: Welcome to the Miller Lab
 
 # List of links in the navigation bar
 navbar-links:
-  About: "About"
+  About: "about"
   Research: "research"
   People: "people"
   Publications: "publications"
