@@ -169,13 +169,11 @@
           </li>
           {% endif %}
         </ul>
-	<div style = "text-align:left";>
-		<a href="www.virginia.edu"> <img src ="/img/University_of_Virginia_logo.png" hr height="20%" hr width ="20%"> </a>
-	</div>	     
-	<div style = "text-align:right";>     
-		<a href="https://med.virginia.edu/cphg/"> <img src ="/img/cphg_logo.jpg" hr height="20%" hr width="20%"></a>
-	</div>
-	     <p class="copyright text-muted">
+#insert logos in footer
+		<a href="www.virginia.edu"> <img src ="/img/University_of_Virginia_logo.png" hr height="20%" hr width ="20%" align="left"> </a>   
+		<a href="https://med.virginia.edu/cphg/"> <img src ="/img/cphg_logo.jpg" hr height="20%" hr width="20%" align="right"></a>
+	     
+	      <p class="copyright text-muted">
 		  {{ site.author.name }}
 		  &nbsp;&bull;&nbsp;
 		  {{ site.time | date: '%Y' }}
