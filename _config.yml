@@ -41,10 +41,10 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: MillerLab 
-  email: "clm104@gmail.com"
-  github: clintmil    # eg. daattali
-  twitter: clintomics   # eg. daattali
+  name: Miller Lab 
+  email: 
+  github:     # eg. daattali
+  twitter:    # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: yourname  # eg. daattali
@@ -60,10 +60,10 @@ author:
 footer-links-active:
   rss: false
   facebook: false
-  email: true
-  twitter: true
+  email: false
+  twitter: false
   google-plus: false
-  github: true
+  github: false
   reddit: false
   linkedin: false
   xing: false
