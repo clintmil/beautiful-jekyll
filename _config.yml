@@ -73,7 +73,6 @@ footer-links-active:
   youtube: false
   spotify: false
   telephone: false
-  img: /img/University_of_Virginia_logo.png
 
 # Select which share links to show in posts
 share-links-active:
