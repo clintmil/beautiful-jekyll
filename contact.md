@@ -14,6 +14,6 @@ West Complex
 1335 Lee Street  
 Charlottesville, VA 22903
 
-Email: clm104[at]gmail[dot]com
+Email: clm104 [at] gmail [dot] com
 
 Phone: 
