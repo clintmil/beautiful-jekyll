@@ -7,6 +7,18 @@ bigimg:
 
 ---
 
+<div class="twitter-timeline" 
+	   href="https://twitter.com/clintomics"
+	   data-height="200"
+	   data-chrome="nofooter"
+	   data-chrome="noheader"
+	   data-tweet-limit="5"
+	   >Tweets by clintomics
+</div>
+<script async src="//platform.twitter.com/widgets.js" 
+	charset="utf-8">
+</script>
+
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
@@ -56,18 +68,6 @@ bigimg:
    </article>
   {% endfor %}
 </div>
-
-<div class="twitter-timeline" 
-	   href="https://twitter.com/clintomics"
-	   data-height="200"
-	   data-chrome="nofooter"
-	   data-chrome="noheader"
-	   data-tweet-limit="5"
-	   >Tweets by clintomics
-</div>
-<script async src="//platform.twitter.com/widgets.js" 
-	charset="utf-8">
-</script>
 
 {% if paginator.total_pages > 1 %}
 <ul class="pager main-pager">
