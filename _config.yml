@@ -23,7 +23,7 @@ description: Functional genomics of cardiovascular diseases
 
 # List of links in the navigation bar
 navbar-links:
-  About: "about"
+  About: "index"
   Research: "research"
   People: "people"
   Publications: "publications"
