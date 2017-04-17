@@ -1,4 +1,11 @@
-### Contact us 
+---
+layout: page
+img: "/img/uva-Aerial_Grounds_01HiRes_2.jpg"
+
+---
+
+
+#### Contact us 
 
 The lab is located in the Center for Public Health Genomics.
 
