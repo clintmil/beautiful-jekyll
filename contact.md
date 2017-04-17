@@ -1,6 +1,6 @@
 ---
 layout: page
-bigimg: "/img/uva-Aerial_Grounds_01HiRes_2.jpg"
+bigimg: "/img/Uvahospital-aerial.jpg"
 
 ---
 
