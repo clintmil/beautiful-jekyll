@@ -82,6 +82,11 @@ share-links-active:
   google: false
   linkedin: true
 
+# Embed twitter widget
+
+<a class="twitter-timeline" href="https://twitter.com/clintomics">Tweets by clintomics</a>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
 url-pretty: "millerlab.org"  # eg. "deanattali.com/beautiful-jekyll"
