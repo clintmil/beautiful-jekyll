@@ -64,6 +64,9 @@ bigimg:
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
   </li>
   {% endif %}
+	<a class="twitter-timeline" href="https://twitter.com/clintomics">Tweets by clintomics</a>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
   {% if paginator.next_page %}
   <li class="next">
     <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
@@ -71,8 +74,3 @@ bigimg:
   {% endif %}
 </ul>
 {% endif %}
-
-# Embed twitter widget
-
-<a class="twitter-timeline" href="https://twitter.com/clintomics">Tweets by clintomics</a>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
