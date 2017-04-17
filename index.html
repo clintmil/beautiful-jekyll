@@ -64,14 +64,18 @@ bigimg:
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
   </li>
   {% endif %}
-	<a class="twitter-timeline" 
+
+<div class="twitter-timeline" 
 	   href="https://twitter.com/clintomics"
 	   data-height="200"
 	   data-chrome="nofooter"
 	   data-chrome="noheader"
 	   data-tweet-limit="5"
-	   >Tweets by clintomics</a>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+	   >Tweets by clintomics
+</div>
+<script async src="//platform.twitter.com/widgets.js" 
+	charset="utf-8">
+</script>
 
   {% if paginator.next_page %}
   <li class="next">
